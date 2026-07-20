@@ -1,136 +1,175 @@
-<h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
+::: {align="center"}
+# 👋 Muhammad Umar
 
-<h3 align="center">
-AI Automation Developer | n8n | Python | AI Agents | API Integrations
-</h3>
+### AI Automation Developer • n8n • Python • AI Agents • API Integrations
 
-<p align="center">
-I build AI-powered automation systems that save time, reduce manual work, and integrate business tools using n8n, Python, APIs, and modern AI models.
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue)](https://umardev.ai.studio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2)](https://www.linkedin.com/in/muhammad-umar-56a447257)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Available-1DBF73)](https://www.fiverr.com/sellers/muhammadumar852)
+[![X](https://img.shields.io/badge/X-Follow-black)](https://x.com/MuHa_MMAD_umar)
+:::
 
----
+------------------------------------------------------------------------
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🤖 AI Automation Developer
-- ⚙️ Specialized in n8n Workflow Automation
-- 🐍 Python Automation Developer
-- 🔗 API Integration Expert
-- 🧠 AI Agents & LLM Workflows
-- 🌐 Web Scraping & Data Extraction
-- 📍 Punjab, Pakistan
+I design and build production-ready automation systems that reduce
+manual work, connect business tools, and use modern AI models to improve
+workflows.
 
----
+## 🎯 What I Do
 
-## 🛠 Tech Stack
+-   🤖 AI Workflow Automation
+-   ⚙️ n8n Development
+-   🐍 Python Automation
+-   🔗 REST API Integrations
+-   🧠 AI Agents & LLM Workflows
+-   📊 Google Workspace Automation
+-   🌍 Web Scraping & Data Collection
 
-### Automation
-- n8n
-- Make
-- Zapier
+------------------------------------------------------------------------
 
-### Programming
-- Python
-- JavaScript
+# 🛠 Tech Stack
 
-### AI
-- OpenAI
-- Google Gemini
-- LangChain
+## Automation
 
-### Databases
-- Google Sheets
-- Pinecone
+-   n8n
+-   Make
+-   Zapier
 
-### APIs
-- REST APIs
-- Gmail API
-- Google Drive API
-- Google Sheets API
-- Google Maps API
+## Languages
 
-### Web
-- HTML
-- CSS
-- WordPress
+-   Python
+-   JavaScript
+-   HTML
+-   CSS
 
----
+## AI
 
-## 📌 Featured Projects
+-   OpenAI
+-   Google Gemini
+-   LangChain
 
-### 🤖 AI Customer Support Agent
+## APIs
 
-AI-powered customer support using n8n, OpenAI, Gmail, Pinecone and LangChain.
+-   Gmail API
+-   Google Drive API
+-   Google Sheets API
+-   Google Maps API
+-   REST APIs
 
----
+## Databases
 
-### 🛒 Amazon Product Scraper
+-   Google Sheets
+-   Pinecone
 
-Python automation to collect Amazon product information using APIs.
+------------------------------------------------------------------------
 
----
+# 💼 Services
 
-### 📍 Google Maps Lead Generator
+-   AI Automation Systems
+-   Business Process Automation
+-   CRM Automation
+-   API Development & Integration
+-   Web Scraping
+-   Reporting Automation
+-   AI Chatbots
+-   Custom n8n Workflows
 
-Lead generation automation using Google Maps API.
+------------------------------------------------------------------------
 
----
+# 📌 Featured Projects
 
-### 📈 Website SEO Analyzer
+## 🤖 AI Customer Support Agent
 
-AI-powered website auditing and SEO recommendations.
+AI-powered customer support with n8n, OpenAI, Gmail and vector search.
 
----
+## 🛒 Amazon Product Intelligence
 
-### 🎥 YouTube Automation
+Product analysis and data collection automation.
 
-Workflow automation for YouTube research and content generation.
+## 📍 Google Maps Lead Generator
 
----
+Business lead generation workflows.
 
-### 🔗 API Integrations
+## 📈 Website SEO Analyzer
 
-Reusable integrations for business automation.
+Technical SEO audit with AI recommendations.
 
----
+## 🎥 YouTube Automation
 
-## 🌱 Currently Learning
+Research and content workflow automation.
 
-- Advanced AI Agents
-- Multi-Agent Systems
-- MCP
-- Vector Databases
-- Production Automation
+## ⚡ API Integration Collection
 
----
+Reusable integrations for business systems.
 
-## 📫 Contact
+------------------------------------------------------------------------
 
-📧 Email:
-**umarbaloch0302327@gmail.com**
+# 🌱 Current Focus
 
-🌐 Portfolio
+-   Multi-Agent AI Systems
+-   MCP Ecosystem
+-   Production AI Pipelines
+-   Automation SaaS Products
 
+------------------------------------------------------------------------
+
+# 📫 Contact
+
+**Portfolio**\
 https://umardev.ai.studio
 
-💼 LinkedIn
+**Email**\
+umarautomationdeveloper@gmail.com
 
+**LinkedIn**\
 https://www.linkedin.com/in/muhammad-umar-56a447257
 
-🐦 X
+**GitHub**\
+https://github.com/muhammad-umar-ai
 
-https://x.com/MuHa_MMAD_umar
+------------------------------------------------------------------------
 
-🎯 Fiverr
+# 📅 2026 Roadmap
 
-https://www.fiverr.com/sellers/muhammadumar852
+-   Publish reusable n8n templates
+-   Release open-source automation projects
+-   Launch AI automation SaaS products
+-   Expand GitHub portfolio with production-ready repositories
 
----
+------------------------------------------------------------------------
 
-## 💡 Quote
+# 📈 GitHub Widgets (Enable by replacing USERNAME)
+
+> Replace `USERNAME` with `muhammad-umar-ai`.
+
+``` md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+
+![Streak](https://streak-stats.demolab.com?user=USERNAME)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME)
+```
+
+------------------------------------------------------------------------
+
+# 🐍 Snake Contribution (Optional)
+
+Create a GitHub Action later to generate a contribution snake animation.
+
+------------------------------------------------------------------------
+
+# 💡 Philosophy
 
 > Automate repetitive work. Focus on creating value.
 
----
+------------------------------------------------------------------------
 
-⭐ If you like my projects, consider following my GitHub profile.
+::: {align="center"}
+### Thanks for visiting my profile! ⭐
+
+If my work helps you, consider following my GitHub profile.
+:::
