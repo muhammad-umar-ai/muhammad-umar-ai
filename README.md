@@ -21,8 +21,13 @@ I build AI automation systems, API integrations, and workflow solutions.
 - API Integration Collection
 
 ## 📫 Contact
-- Portfolio: https://umardev.ai.studio
-- GitHub: https://github.com/muhammad-umar-ai
-🌐 **Xetomation — Automation & Technology**
-[Visit xetomation.si](https://xetomation.si)
-- LinkedIn: https://www.linkedin.com/in/muhammad-umar-56a447257
+
+- **Portfolio:** [umardev.ai.studio](https://umardev.ai.studio)
+- **GitHub:** [muhammad-umar-ai](https://github.com/muhammad-umar-ai)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/muhammad-umar-56a447257)
+
+---
+
+### 🌐 Xetomation — Automation & Technology
+
+[![Visit Xetomation](https://img.shields.io/badge/Visit-Xetomation.si-111318?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xetomation.si)
