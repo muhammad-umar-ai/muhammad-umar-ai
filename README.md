@@ -23,4 +23,6 @@ I build AI automation systems, API integrations, and workflow solutions.
 ## 📫 Contact
 - Portfolio: https://umardev.ai.studio
 - GitHub: https://github.com/muhammad-umar-ai
+🌐 **Xetomation — Automation & Technology**
+[Visit xetomation.si](https://xetomation.si)
 - LinkedIn: https://www.linkedin.com/in/muhammad-umar-56a447257
