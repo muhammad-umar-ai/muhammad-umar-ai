@@ -28,6 +28,6 @@ I build AI automation systems, API integrations, and workflow solutions.
 
 ---
 
-### 🌐 Xetomation - Automation & Technology
+### 🌐 Xetomation | Automation & Technology
 
 [![Visit Xetomation](https://img.shields.io/badge/Visit-Xetomation.si-111318?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xetomation.si)
