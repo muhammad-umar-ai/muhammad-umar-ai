@@ -1,6 +1,6 @@
 # 👋 Muhammad Umar
 
-> AI Automation Developer | n8n | Python | AI Agents
+AI Automation Developer | n8n | Python | AI Agents
 
 ## 🚀 About Me
 I build AI automation systems, API integrations, and workflow solutions.
