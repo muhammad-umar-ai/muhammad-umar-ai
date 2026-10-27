@@ -49,12 +49,6 @@ I build reliable AI-powered automation systems that connect business tools, redu
 - REST API integrations
 - Google Workspace automation
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-umar-ai&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-umar-ai&layout=compact&hide_border=true)
-
 ## Connect With Me
 
 - 🌐 **Portfolio:** [umardev.ai.studio](https://umardev.ai.studio)
