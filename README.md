@@ -36,7 +36,7 @@ I build reliable AI-powered automation systems that connect business tools, redu
 
 - 🚀 **[AI Prompt Generator](https://github.com/muhammad-umar-ai/n8n-Projects/tree/main/AI-Agents/AI-Prompt-Generator):** n8n and Google Gemini workflow that asks clarifying questions and creates structured, reusable AI prompts.
 - 🤖 **[AI Customer Support Automation](https://github.com/muhammad-umar-ai/n8n-Projects/tree/main/Customer-Support/AI-Customer-Support-Email-Automation):** AI-assisted support workflows using email, knowledge retrieval, and automation.
-- 📍 **Lead Generation Automation:** Collect and organize business leads using maps data and APIs.
+- 📍 **[Lead Generation Agent through Google Maps](https://github.com/muhammad-umar-ai/n8n-Projects/tree/main/Lead-Generation/Lead-Generation-Agent-through-Google-Maps):** Find businesses by category and location, enrich website contacts, save leads to Google Sheets, and generate outreach emails.
 - 📈 **Website SEO Analyzer:** Analyze website pages and generate actionable SEO insights.
 - 🎬 **YouTube Automation:** Automate research and repeatable steps in a content production workflow.
 - 🔗 **API Integration Collection:** Reusable integrations that connect business tools and services.
